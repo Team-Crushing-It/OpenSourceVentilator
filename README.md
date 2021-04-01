@@ -4,13 +4,14 @@ This is an electronics design for a 3D printed ventilator design made from an ar
 
 This repository is setup to support the open-sourced documentation and development. 
 
-Documentation:
+## Documentation:
+
 1)Controlling a Windshield Wiper Motor with an Arduino
 https://youtu.be/U02HgHwMMAo
 
 
 
-Background:
+## Background:
 
 Team Crushing it is designing an open-source Ventilator alongside research from MIT and Spain
 
