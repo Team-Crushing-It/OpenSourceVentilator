@@ -1,12 +1,12 @@
 # OpenSourceVentilator
 This is an electronics design for a 3D printed ventilator design made from an arduino starter kit and car parts
-![1](https://github.com/Team-Crushing-It/OpenSourceVentilator/blob/master/Circuit%20Diagram%20Emergency%20Windshield%20Wiper%20Speed%20Control.png)
 
 This repository is setup to support the open-sourced documentation and development. 
 
 ## Documentation:
+![1](https://github.com/Team-Crushing-It/OpenSourceVentilator/blob/master/Circuit%20Diagram%20Emergency%20Windshield%20Wiper%20Speed%20Control.png)
 
-1)Controlling a Windshield Wiper Motor with an Arduino
+Controlling a Windshield Wiper Motor with an Arduino
 https://youtu.be/U02HgHwMMAo
 
 
